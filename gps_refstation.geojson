@@ -9418,6 +9418,686 @@
                 "Lon": "77.00",
                 "web": ""
             }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "52.3110133694444",
+              "54.9039574666667"
+            ]
+          },
+          "properties": {
+            "Station": "ALME",
+            "Location": "Республика Татарстан, Альметьевск, улица Маяковского",
+            "Lat": "54.9039574666667",
+            "Lon": "52.3110133694444",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "49.904559225",
+              "56.0777690972222"
+            ]
+          },
+          "properties": {
+            "Station": "ARSK",
+            "Location": "республика Татарстан, Арский район, Арск",
+            "Lat": "56.0777690972222",
+            "Lon": "49.904559225",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "48.0536362805556",
+              "46.3180521722222"
+            ]
+          },
+          "properties": {
+            "Station": "ASTR",
+            "Location": "Астрахань",
+            "Lat": "46.3180521722222",
+            "Lon": "48.0536362805556",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "49.6256818",
+              "54.2190908888889"
+            ]
+          },
+          "properties": {
+            "Station": "DMGR",
+            "Location": "Ульяновская область, Димитровград, улица III Интернационала",
+            "Lat": "54.2190908888889",
+            "Lon": "49.6256818",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "37.539376375",
+              "56.3271737083333"
+            ]
+          },
+          "properties": {
+            "Station": "DMIT",
+            "Location": "Московская область, Дмитровский район",
+            "Lat": "56.3271737083333",
+            "Lon": "37.539376375",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "42.8530347861111",
+              "44.0461972666667"
+            ]
+          },
+          "properties": {
+            "Station": "ESSE",
+            "Location": "Ставропольский край, Ессентуки, Вокзальная улица",
+            "Lat": "44.0461972666667",
+            "Lon": "42.8530347861111",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "37.5424234555556",
+              "55.7011750333333"
+            ]
+          },
+          "properties": {
+            "Station": "GAIS",
+            "Location": "Москва, Университетский проспект",
+            "Lat": "55.7011750333333",
+            "Lon": "37.5424234555556",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "53.1840816888889",
+              "56.7941133083333"
+            ]
+          },
+          "properties": {
+            "Station": "IZHV",
+            "Location": "Удмуртская Республика, Ижевск, улица Гагарина",
+            "Lat": "56.7941133083333",
+            "Lon": "53.1840816888889",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "48.1966667138889",
+              "55.4004737361111"
+            ]
+          },
+          "properties": {
+            "Station": "KABC",
+            "Location": "Республика Татарстан, Кайбицкий район",
+            "Lat": "55.4004737361111",
+            "Lon": "48.1966667138889",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "46.9748602666667",
+              "54.1950599305556"
+            ]
+          },
+          "properties": {
+            "Station": "KARS",
+            "Location": "Ульяновская область, Карсунский район",
+            "Lat": "54.1950599305556",
+            "Lon": "46.9748602666667",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "38.9674171638889",
+              "45.0089091722222"
+            ]
+          },
+          "properties": {
+            "Station": "KRAS",
+            "Location": "Краснодар, Центральный микрорайон, улица Захарова",
+            "Lat": "45.0089091722222",
+            "Lon": "38.9674171638889",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "50.9330920361111",
+              "56.181083375"
+            ]
+          },
+          "properties": {
+            "Station": "KUKM",
+            "Location": "республика Татарстан, Кукморский район, поселок Кукмор",
+            "Lat": "56.181083375",
+            "Lon": "50.9330920361111",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "49.4991335777778",
+              "55.71999085"
+            ]
+          },
+          "properties": {
+            "Station": "KULA",
+            "Location": "Республика Татарстан",
+            "Lat": "55.71999085",
+            "Lon": "49.4991335777778",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "51.3965952583333",
+              "55.6549551027778"
+            ]
+          },
+          "properties": {
+            "Station": "MAMA",
+            "Location": "Республика Татарстан",
+            "Lat": "55.6549551027778",
+            "Lon": "51.3965952583333",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "40.074854475",
+              "44.6131440388889"
+            ]
+          },
+          "properties": {
+            "Station": "MAYK",
+            "Location": "",
+            "Lat": "44.6131440388889",
+            "Lon": "40.074854475",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "44.0615425277778",
+              "43.5701072638889"
+            ]
+          },
+          "properties": {
+            "Station": "MAYS",
+            "Location": "республика Кабардино-Балкарская, Майский район, станица Котляревская",
+            "Lat": "43.5701072638889",
+            "Lon": "44.0615425277778",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "43.5810459527778",
+              "43.493973325"
+            ]
+          },
+          "properties": {
+            "Station": "NALC",
+            "Location": "республика Кабардино-Балкарская, Нальчик, улица А. Г. Головко",
+            "Lat": "43.493973325",
+            "Lon": "43.5810459527778",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "51.1632320027778",
+              "52.7974324944444"
+            ]
+          },
+          "properties": {
+            "Station": "NEFT",
+            "Location": "Самарская область, Нефтегорский район, Нефтегорск, улица Ленина",
+            "Lat": "52.7974324944444",
+            "Lon": "51.1632320027778",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "87.1305841861111",
+              "53.7498829694444"
+            ]
+          },
+          "properties": {
+            "Station": "NOVK",
+            "Location": "Кемеровская область, Новокузнецк, улица Сеченова",
+            "Lat": "53.7498829694444",
+            "Lon": "87.1305841861111",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "37.7660550194444",
+              "44.7202291611111"
+            ]
+          },
+          "properties": {
+            "Station": "NOVR",
+            "Location": "Краснодарский край, Новороссийск, улица Видова",
+            "Lat": "44.7202291611111",
+            "Lon": "37.7660550194444",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "47.7616213972222",
+              "53.1440600583333"
+            ]
+          },
+          "properties": {
+            "Station": "NOVS",
+            "Location": "Ульяновская область, Новоспасский район",
+            "Lat": "53.1440600583333",
+            "Lon": "47.7616213972222",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "51.3535073111111",
+              "53.3731907444444"
+            ]
+          },
+          "properties": {
+            "Station": "OTRA",
+            "Location": "Самарская область, Отрадный",
+            "Lat": "53.3731907444444",
+            "Lon": "51.3535073111111",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "43.0443232833333",
+              "44.0294967638889"
+            ]
+          },
+          "properties": {
+            "Station": "PYAT",
+            "Location": "Ставропольский край, Пятигорск",
+            "Lat": "44.0294967638889",
+            "Lon": "43.0443232833333",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "38.2127497583333",
+              "55.5714812861111"
+            ]
+          },
+          "properties": {
+            "Station": "RAMN",
+            "Location": "Московская область, Раменское, улица Воровского",
+            "Lat": "55.5714812861111",
+            "Lon": "38.2127497583333",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "39.5935506972222",
+              "47.2406741694444"
+            ]
+          },
+          "properties": {
+            "Station": "ROST",
+            "Location": "Ростов-на-Дону, улица Доватора",
+            "Lat": "47.2406741694444",
+            "Lon": "39.5935506972222",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "50.2158553777778",
+              "53.2131246805556"
+            ]
+          },
+          "properties": {
+            "Station": "SAMR",
+            "Location": "Самара, улица Антонова-Овсеенко",
+            "Lat": "53.2131246805556",
+            "Lon": "50.2158553777778",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "46.0106542222222",
+              "51.5350827166667"
+            ]
+          },
+          "properties": {
+            "Station": "SART",
+            "Location": "Саратов",
+            "Lat": "51.5350827166667",
+            "Lon": "46.0106542222222",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "39.7261182722222",
+              "43.5893288833333"
+            ]
+          },
+          "properties": {
+            "Station": "SOCH",
+            "Location": "Краснодарский край, Сочи, микрорайон Центральный",
+            "Lat": "43.5893288833333",
+            "Lon": "39.7261182722222",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "48.4710180361111",
+              "53.1627560833333"
+            ]
+          },
+          "properties": {
+            "Station": "SYZR",
+            "Location": "Самарская область, Сызрань, улица Володарского",
+            "Lat": "53.1627560833333",
+            "Lon": "48.4710180361111",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "38.9378022222222",
+              "47.2101252833333"
+            ]
+          },
+          "properties": {
+            "Station": "TAGN",
+            "Location": "Ростовская область, Таганрог, Петровская улица",
+            "Lat": "47.2101252833333",
+            "Lon": "38.9378022222222",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "48.8394536944444",
+              "54.9540694805556"
+            ]
+          },
+          "properties": {
+            "Station": "TETU",
+            "Location": "республика Татарстан, Тетюшский район, Тетюши",
+            "Lat": "54.9540694805556",
+            "Lon": "48.8394536944444",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "42.9217121388889",
+              "43.3936902305555"
+            ]
+          },
+          "properties": {
+            "Station": "TIRN",
+            "Location": "республика Кабардино-Балкарская, Эльбрусский район, Тырныауз, Эльбрусский проспект",
+            "Lat": "43.3936902305555",
+            "Lon": "42.9217121388889",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "49.2606910527778",
+              "53.5340403305556"
+            ]
+          },
+          "properties": {
+            "Station": "TOLY",
+            "Location": "Самарская область, Тольятти, Московский проспект",
+            "Lat": "53.5340403305556",
+            "Lon": "49.2606910527778",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "37.6161831916667",
+              "54.1739190444444"
+            ]
+          },
+          "properties": {
+            "Station": "TULA",
+            "Location": "Тула, улица Михеева",
+            "Lat": "54.1739190444444",
+            "Lon": "37.6161831916667",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "50.2250358361111",
+              "55.8870999694444"
+            ]
+          },
+          "properties": {
+            "Station": "TYLA",
+            "Location": "республика Татарстан, Тюлячинский район, село Тюлячи",
+            "Lat": "55.8870999694444",
+            "Lon": "50.2250358361111",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "65.5199297027778",
+              "57.1621736055555"
+            ]
+          },
+          "properties": {
+            "Station": "TYMN",
+            "Location": "Тюмень",
+            "Lat": "57.1621736055555",
+            "Lon": "65.5199297027778",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "48.9636815583333",
+              "55.7666030722222"
+            ]
+          },
+          "properties": {
+            "Station": "USLN",
+            "Location": "республика Татарстан, Верхнеуслонский район, село Верхний Услон",
+            "Lat": "55.7666030722222",
+            "Lon": "48.9636815583333",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "37.2885787027778",
+              "55.6067434222222"
+            ]
+          },
+          "properties": {
+            "Station": "VNUK",
+            "Location": "Москва, поселок Внуково",
+            "Lat": "55.6067434222222",
+            "Lon": "37.2885787027778",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "39.8466979916667",
+              "57.6316406472222"
+            ]
+          },
+          "properties": {
+            "Station": "YARO",
+            "Location": "Ярославская область, Ярославль, улица Тургенева",
+            "Lat": "57.6316406472222",
+            "Lon": "39.8466979916667",
+            "web": "http://smartnet.navgeocom.ru"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "41.5843831388889",
+              "43.859984675"
+            ]
+          },
+          "properties": {
+            "Station": "ZELN",
+            "Location": "республика Карачаево-Черкесская, Зеленчукский район, станица Зеленчукская",
+            "Lat": "43.859984675",
+            "Lon": "41.5843831388889",
+            "web": "http://smartnet.navgeocom.ru"
+          }
         }
     ]
 }
