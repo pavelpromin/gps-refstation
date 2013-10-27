@@ -12,6 +12,7 @@
  - http://rusnavgeo.ru
  - http://cors.eftgroup.ru
  - http://109.233.226.34
+ - http://smartnet.navgeocom.ru/
 
 Станции "без сайта" взяты здесь http://www.rusnavgeo.ru/dataxcm.html
 
