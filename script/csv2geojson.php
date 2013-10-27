@@ -30,7 +30,7 @@ foreach ($strings as $string){
    );
 }
 $data['type']='FeatureCollection';
-$data[features]=$rows;
+$data['features']=$rows;
 
 $json = json_encode($data);
 file_put_contents('../gps_refstation.geojson',$json);
