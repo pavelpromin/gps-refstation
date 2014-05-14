@@ -1,9 +1,17 @@
 <?php
 // conver .csv file to .geojson
 // geocoding by lat, lon from yandex
-
+$counter=0;
+$preprogress=false;
 $strings = file('../gps_refstation.csv');
 foreach ($strings as $string){
+   $counter++;
+   $progress=round($counter/count($strings)*100);
+   if ($progress!==$preprogress){
+      echo "> ".round($counter/count($strings)*100)."%\r\n";
+      $preprogress=$progress;
+   }
+   
    $array = explode(",", $string);
    $yandex = file_get_contents("http://geocode-maps.yandex.ru/1.x/?geocode=$array[2],$array[1]");
    $address = new SimpleXMLElement($yandex);
