@@ -24,13 +24,13 @@ foreach ($strings as $string){
          'geometry'=>array(
             'type'=>'Point',
             'coordinates'=>array(
-               $array[2],
-               $array[1]
+               floatval($array[2]),
+               floatval($array[1])
                 )
             ),
          'properties'=>array(
             'Station'=>$array[0],
-                'Location'=>$address,
+                'Location'=>strtr($address,'"','\''),
                 'Lat'=>$array[1],
                 'Lon'=>$array[2],
                 'web'=>$array[3],
@@ -40,5 +40,5 @@ foreach ($strings as $string){
 $data['type']='FeatureCollection';
 $data['features']=$rows;
 
-$json = json_encode($data);
+$json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 file_put_contents('../gps_refstation.geojson',$json);
