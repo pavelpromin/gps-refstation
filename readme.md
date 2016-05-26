@@ -14,6 +14,7 @@
  - http://109.233.226.34
  - http://smartnet.navgeocom.ru/
  - http://topnet.gsi.ru/ 
+ - http://smartnet-ru.com/zona-pokrytija-seti_665.htm
 
 Станции "без сайта" взяты здесь http://www.rusnavgeo.ru/dataxcm.html
 
