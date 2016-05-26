@@ -16,6 +16,7 @@
  - http://topnet.gsi.ru/ 
  - http://smartnet-ru.com/zona-pokrytija-seti_665.htm
  - http://geodetika.ru/site/bazovye-stantsii/
+ - https://hive.geosystems.aero/
 
 Станции "без сайта" взяты здесь http://www.rusnavgeo.ru/dataxcm.html
 
